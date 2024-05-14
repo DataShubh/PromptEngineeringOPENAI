@@ -1,5 +1,3 @@
-# PromptEngineeringOPENAI
-Using OPEN AI promt engineering for Marketing Data Manipulation
 # Prompt Engineering Model for Correcting Job Titles and Extracting Departments
 
 This repository contains a Python application that leverages Prompt's engineering model to correct job titles and extract departments from a database. The application is built using Python, Streamlit, and multithreading for efficient processing.
